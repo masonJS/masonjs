@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Backend developer 👋
+  
 [![An image of @masonjs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masonjs)](https://holopin.io/@masonjs)
 
 <!--
