@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonJS&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
 [![An image of @masonjs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masonjs)](https://holopin.io/@masonjs)
 
 <!--
